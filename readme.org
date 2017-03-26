@@ -1,3 +1,5 @@
-#+TITLE: Rreadme
+#+TITLE: Readme
 
-* [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/][Video Lectures | Structure and Interpretation of Computer Programs]]
+
+* References
+  * [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/][Video Lectures | Structure and Interpretation of Computer Programs]]
