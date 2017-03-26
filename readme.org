@@ -1,11 +1,12 @@
 #+TITLE: Readme
 
-Check out the notes in ../lecture-src to get working code for the videos, which I've created.
+Check out the notes in ./lecture-src to get working code for the videos, which I've created.
 
 * References
 ** [[https://mitpress.mit.edu/sicp/][Welcome to the SICP Web Site]]
   * [[https://mitpress.mit.edu/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs (E-Book Online)]]
   * [[https://mitpress.mit.edu/sicp/code/][Complete Code from SICP 2/e]]
+    Grab the source-code from the website rather from this repository. I may have some other notes and have worked on some of the exercises. I recommend doing the same!
 ** MIT Open Courseware Site
-   * [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm][Course Home    | Structure and Interpretation of Computer Programs]]
+   * [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm][Course Home | Structure and Interpretation of Computer Programs]]
    * [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/][Video Lectures | Structure and Interpretation of Computer Programs]]
